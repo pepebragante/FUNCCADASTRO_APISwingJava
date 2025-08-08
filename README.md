@@ -8,8 +8,6 @@ JLabel
 Jbutton
 JTextfield
 JOptionPane
-
---------
 -Override
 -ActionEvent/ActionListener (duas veses)
 -FLowLayout
